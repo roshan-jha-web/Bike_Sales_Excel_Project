@@ -25,15 +25,23 @@ Slicers & Filters
 Interactive Dashboard Design
 
 Key Analysis:-
-Income comparison between buyers and non-buyers
-Age, gender, and marital status impact on purchases
-Commute distance and regional buying trends
+Income comparison between buyers and non-buyers.
+Age, gender, and marital status impact on purchases.
+Commute distance and regional buying trends.
 
 Key Insights:-
 
-Bike buyers have higher average income
-Middle-aged customers show higher purchase probability
-Short-to-medium commute distance customers are more likely to buy bikes
+Bike buyers have higher average income.
+Middle-aged customers show higher purchase probability.
+Short-to-medium commute distance customers are more likely to buy bikes.
+
+🎯 Business Impact:-
+
+This dashboard can help:
+
+Marketing teams target high-conversion customer segments.
+Sales teams focus on regions and demographics with higher purchase intent.
+Management understand customer behavior patterns at a glance.
 
 ![Bike_Store](https://github.com/user-attachments/assets/9c4dc22e-e6c6-4c6d-9b81-60c07819b39d)
 
